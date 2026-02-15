@@ -1,0 +1,111 @@
+{
+    "posts": [{
+            "id": 1,
+            "title": "Getting Started with React Hooks",
+            "content": "React Hooks revolutionize how we write React components. They allow you to use state and other React features without writing a class. In this comprehensive guide, we'll explore useState, useEffect, useContext, and custom hooks...",
+            "excerpt": "Learn the fundamentals of React Hooks and how they can simplify your component logic.",
+            "author": {
+                "name": "John Doe",
+                "avatar": "https://i.pravatar.cc/150?img=1",
+                "bio": "Senior React Developer"
+            },
+            "category": "React",
+            "tags": ["react", "hooks", "javascript"],
+            "date": "2024-01-15",
+            "readTime": 5,
+            "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=500",
+            "likes": 234,
+            "comments": 45
+        },
+        {
+            "id": 2,
+            "title": "Mastering CSS Grid Layout",
+            "content": "CSS Grid is a powerful layout system that allows you to create complex responsive designs with ease. This tutorial covers everything from basic concepts to advanced techniques...",
+            "excerpt": "Discover how to create responsive layouts effortlessly with CSS Grid.",
+            "author": {
+                "name": "Jane Smith",
+                "avatar": "https://i.pravatar.cc/150?img=2",
+                "bio": "CSS Expert & UI Designer"
+            },
+            "category": "CSS",
+            "tags": ["css", "grid", "responsive"],
+            "date": "2024-01-10",
+            "readTime": 8,
+            "image": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?w=500",
+            "likes": 189,
+            "comments": 32
+        },
+        {
+            "id": 3,
+            "title": "JavaScript Design Patterns",
+            "content": "Design patterns are reusable solutions to common programming problems. This article explores the most useful patterns in JavaScript including Module, Observer, Factory, and Singleton...",
+            "excerpt": "Learn essential design patterns to write more maintainable JavaScript code.",
+            "author": {
+                "name": "Mike Johnson",
+                "avatar": "https://i.pravatar.cc/150?img=3",
+                "bio": "Software Architect"
+            },
+            "category": "JavaScript",
+            "tags": ["javascript", "design-patterns", "programming"],
+            "date": "2024-01-05",
+            "readTime": 12,
+            "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500",
+            "likes": 456,
+            "comments": 78
+        },
+        {
+            "id": 4,
+            "title": "Building REST APIs with Node.js",
+            "content": "Node.js is perfect for building scalable REST APIs. Follow along as we create a complete API with Express, MongoDB, and JWT authentication...",
+            "excerpt": "Step-by-step guide to building production-ready REST APIs.",
+            "author": {
+                "name": "Sarah Williams",
+                "avatar": "https://i.pravatar.cc/150?img=4",
+                "bio": "Backend Developer"
+            },
+            "category": "Node.js",
+            "tags": ["nodejs", "api", "express"],
+            "date": "2023-12-28",
+            "readTime": 10,
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=500",
+            "likes": 345,
+            "comments": 56
+        },
+        {
+            "id": 5,
+            "title": "TypeScript for React Developers",
+            "content": "TypeScript adds static typing to JavaScript, making your React apps more robust. Learn how to integrate TypeScript with React components, hooks, and props...",
+            "excerpt": "Enhance your React apps with TypeScript's type safety.",
+            "author": {
+                "name": "Alex Chen",
+                "avatar": "https://i.pravatar.cc/150?img=5",
+                "bio": "Full Stack Developer"
+            },
+            "category": "TypeScript",
+            "tags": ["typescript", "react", "javascript"],
+            "date": "2023-12-20",
+            "readTime": 7,
+            "image": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=500",
+            "likes": 267,
+            "comments": 41
+        },
+        {
+            "id": 6,
+            "title": "Responsive Web Design Principles",
+            "content": "Create websites that look great on any device. This guide covers fluid layouts, flexible images, media queries, and mobile-first approach...",
+            "excerpt": "Master the art of creating websites that work everywhere.",
+            "author": {
+                "name": "Emma Davis",
+                "avatar": "https://i.pravatar.cc/150?img=6",
+                "bio": "UI/UX Designer"
+            },
+            "category": "Design",
+            "tags": ["responsive", "css", "mobile"],
+            "date": "2023-12-15",
+            "readTime": 6,
+            "image": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=500",
+            "likes": 198,
+            "comments": 23
+        }
+    ]
+}
